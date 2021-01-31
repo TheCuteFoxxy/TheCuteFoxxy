@@ -1,6 +1,5 @@
-### Hi there 👋
-
-### hello world 👋🏾
+### Hewwo ^-^
+My name is Foxxy, I am a Node.js developer. I primarily work on my Discord bot Sentinel but I also work on quite a bit of side projects using Node.js and other languages. You can find me on Discord (TheCuteFoxxy#0001)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/641795527444529152simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/641795527444529152)
