@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### hello world 👋🏾
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/641795527444529152simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/641795527444529152)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/641795527444529152)
+![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/641795527444529152)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/641795527444529152)](https://dev.discordprofiles.me/openspotify/641795527444529152)
+
 <!--
 **TheCuteFoxxy/TheCuteFoxxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
