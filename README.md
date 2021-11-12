@@ -11,5 +11,5 @@ My name is Foxxy, I am a Node.js developer. I primarily work on my Discord bot A
  
 ![TheCuteFoxxy's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thecutefoxxy&theme=solarized_dark)
 ![TheCuteFoxxy's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecutefoxxy&theme=solarized_dark)
-![TheCuteFoxxy's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecutefoxxytheme=solarized_dark)
+![TheCuteFoxxy's Summary](![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecutefoxxy&theme=solarized_dark))
 
