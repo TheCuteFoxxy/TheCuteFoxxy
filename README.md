@@ -2,9 +2,7 @@
 My name is Foxxy, I am a Node.js developer. I primarily work on my Discord bot Azrael but I also work on quite a bit of side projects using Node.js and other languages. You can find me on Discord (TheCuteFoxxy#0001)
 
 ### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=thecutefoxxyy&column=8&theme=discord&no-frame=true&no-bg=true"/>
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=thecutefoxxy)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📊 GitHub Stats:
