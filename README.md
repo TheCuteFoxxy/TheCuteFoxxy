@@ -6,7 +6,7 @@ My name is Foxxy, I am a Node.js developer. I primarily work on my Discord bot A
 
 
 ### 📊 GitHub Stats:
-![Lalas github stats](https://github-readme-stats.vercel.app/api?username=thecutefoxxy&theme=radical&show_icons=true&count_private=true)
+![Lalas github stats](https://github-readme-stats.vercel.app/api?username=thecutefoxxy&theme=monokai&show_icons=true&count_private=true)
   
  
 ![TheCuteFoxxy's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thecutefoxxy&theme=monokai)
